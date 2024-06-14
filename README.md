@@ -35,3 +35,5 @@ cargo run test
 ```
 
 ### Currently only [sudokount1.in](./input/sudokount1.in) file gives the solution within feasible time
+
+MOPP problem [reference](http://lspd.mackenzie.br/marathon/16/problemset.pdf) 
